@@ -1,0 +1,28 @@
+name: Vakantierust
+favicon: null
+layout_spectrum: 0.4987743073143065
+typography_spectrum: 0.05325013608671725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9554983305279166
+  lightness: 0.6856623259373009
+  saturation: 0.21623045415617526
+  rhythmicContrast: 0.12517824489623308
+purpose: []
